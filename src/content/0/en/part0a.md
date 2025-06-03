@@ -13,7 +13,7 @@ Other topics include debugging applications, container technology, configuration
 
 The course is totally free of charge. You can get a certificate and even the University of Helsinki ECTS (European Credit Transfer and Accumulation System) credits for free.
 
-### Prerequisites
+### Prerequisites:
 
 Participants are expected to have good programming skills, basic knowledge of web programming and databases, and know the basics of the Git version control system. You are also expected to have perseverance and a capacity for solving problems and seeking information independently.
 
@@ -21,7 +21,7 @@ Previous knowledge of JavaScript or other course topics is not required.
 
 How much programming experience is needed? It is hard to say, but you should be pretty fluent in *your* language. This level of fluency takes usually at least 100-200 hours of practice to develop.
 
-### Course material
+### Course material:
 
 The course material is meant to be read one part at a time and in order.
 
@@ -31,7 +31,7 @@ In many parts of the course, the exercises build one larger application one smal
 
 The course material is based on incrementally expanding example applications, which change from part to part. It's best to follow the code along while making small modifications independently. The code of the example applications for each step of each part can be found on GitHub.
 
-### Taking the course
+### Taking the course:
 
 The course contains fourteen parts, the first of which is numbered 0 for consistency with past iterations. One part corresponds loosely to one week (averaging 15-20 hours) of studying, but the speed of completing the course is flexible.
 
@@ -43,7 +43,7 @@ The speed of completing the course is flexible.
 
 Exercise completion time statistics can be found via the [submission system](https://studies.cs.helsinki.fi/stats/courses/fullstackopen).
 
-### Course channel in Discord
+### Course channel in Discord:
 
 You can discuss the course and related topics in our dedicated group on Discord <https://study.cs.helsinki.fi/discord/join/fullstack>. Discord has fullstack_general and part-specific (channel names with fullstack prefix) channels for course-related discussion. Note that Discord's *chat channel is not suitable for course-related discussions*. Please join the conversation!
 
@@ -208,8 +208,8 @@ Many of the exercises build a larger application bit by bit. In these cases, sub
 
 For the official university credits, you need to pass the course exam that covers parts 1-5 of the course
 
-- If you fail the exam, it can be done again after one week
-- You may continue with submissions after the exam
+- If you fail the exam, it can be done again after one week.
+- You may continue with submissions after the exam.
 
 The exam is done in the exercise submission system. Follow the instructions below to complete the exam.
 
